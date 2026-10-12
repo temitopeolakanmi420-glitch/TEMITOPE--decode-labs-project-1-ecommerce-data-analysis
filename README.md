@@ -42,7 +42,7 @@ Managing an e-commerce platform efficiently requires tracking sales trends, orde
 ### Excel Dashboard Overview
 This dashboard visualizes key e-commerce sales metrics, category breakdowns, and order trends.
 
-![Excel Dashboard Preview](screenshots/excel_dashboard_preview.png)
+![Excel Dashboard Preview](https://github.com/temitopeolakanmi420-glitch/TEMITOPE--decode-labs-project-1-ecommerce-data-analysis/blob/main/Screenshot%202026-08-09%20200249.png)
 
 * **Revenue & Order KPIs**: Tracks total sales volume, average order values, and revenue generation.
 * **Product Performance**: Evaluates top-selling items including Printers, Tablets, Laptops, and Office Furniture.
